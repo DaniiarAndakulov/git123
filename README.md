@@ -15,3 +15,5 @@ Good it worked. The information i entered from mac showed on computer. My next t
 The message didnt show up on my mac. Will try to update once more. Maybe i missed something like "Saving"
 
 ## Save icon
+
+The above message synced with my mac but I just clicked wrong button and i lost the message again. WHat is important is to edit readme file in commit down below
