@@ -9,3 +9,6 @@ It works from computer to the cloud. But will it work vice versa?
 I will try to type here something from my mac and lets see what will show on github cloud
 
 I tried to authorize my Mac VS  and lets try now
+
+Good it worked. The information i entered from mac showed on computer. My next thing would be to pull down this message from hub to my mac
+
